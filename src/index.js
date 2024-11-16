@@ -21,7 +21,7 @@ app.use(cookieParser());
 
 // List of allowed origins
 const allowedOrigins = [
-  'https://shobmile-dev-1.vercel.app',
+  'https://shobmile-dev-2.vercel.app',
   'http://localhost:5173',
   'http://localhost:3000',
   'http://192.168.0.105:3000'
